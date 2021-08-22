@@ -11,7 +11,7 @@ Ex:
 
 ![Screenshot 2021-08-23 at 00 10 37](https://user-images.githubusercontent.com/23433005/130372966-3e2434d4-bacb-4d92-9820-7342aecac7d2.png)
 
-ref – https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/IMG_0700.png
+object url – https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/IMG_0700.png
 
 
 
