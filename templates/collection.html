@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Display images</title>
+    <title>Display files in S3 storage</title>
   </head>
   <body>
     <div class="content">
         <div>
-          <h3>Here are media files inside the S3 bucket:</h3>
+          <h3>All files in S3 bucket 'f2s3-media-data':</h3>
+          <p style="text-indent: 40px">[Content-Type: image/png]</p>
           <ul>
             {% for item in contents %}
               <li>
-                <img src={{ item }} style="width: 250px">
+                <img src={{ item }} align=" " style="width: 250px">
               </li>
             {% endfor %}
           </ul>
