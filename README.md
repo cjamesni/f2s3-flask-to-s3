@@ -5,7 +5,7 @@ Ex:
 
 https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/Screenshot_2021-08-22_at_22.04.20.png
 
-![Screenshot 2021-08-22 at 23 48 20](https://user-images.githubusercontent.com/23433005/130372481-ce0e9641-28be-4dbd-925d-616bd45b75ae.png)
+![Screenshot 2021-08-22 at 23 54 17](https://user-images.githubusercontent.com/23433005/130372592-89a72482-8f86-44f4-89c9-b07cff7eeffd.png)
 
 ![Screenshot 2021-08-22 at 22 04 20](https://user-images.githubusercontent.com/23433005/130372514-50c60ebb-12e4-440e-a0a6-2bf796f2fa51.png)
 
