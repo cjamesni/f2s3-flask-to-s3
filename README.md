@@ -9,7 +9,7 @@ Ex:
 
 ![Screenshot 2021-08-22 at 22 40 59](https://user-images.githubusercontent.com/23433005/130370844-f70d495b-c1cb-4cbc-bf20-07c702fcbf2b.png)
 
-![Screenshot 2021-08-23 at 00 10 37](https://user-images.githubusercontent.com/23433005/130372966-3e2434d4-bacb-4d92-9820-7342aecac7d2.png)
+![Screenshot 2021-08-23 at 00 10 37](https://user-images.githubusercontent.com/23433005/130488501-7248fdc9-864d-4e92-b057-9030ffd5ddab.png)
 
 Frozen-Flask build of f2s3 hosted from GitHub Pages: 
 
