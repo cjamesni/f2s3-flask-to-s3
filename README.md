@@ -15,7 +15,7 @@ Frozen-Flask build of f2s3 hosted from GitHub Pages:
 
 https://cjamesni.github.io/f2s3-flask-to-s3/build/index.html
 
-https://cjamesni.github.io/f2s3-flask-to-s3/build/pics.html
+https://cjamesni.github.io/f2s3-flask-to-s3/build/files.html
 
 S3 Object URL: https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/IMG_0700.png
 
