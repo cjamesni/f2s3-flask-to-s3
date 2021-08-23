@@ -1,5 +1,5 @@
 # f2s3-flask-to-s3
-'f2s3' - A simple in-browser Python and Flask based web application which enables users to complete file storage and retrieval tasks by sending HTTP request methods to interact with a good old Amazon S3 bucket. 
+'f2s3' - A simple in-browser Python and Flask based web application which enables users to complete file storage and retrieval operations by sending HTTP request methods to interact with a good old Amazon S3 bucket. 
 
 Ex: 
 
@@ -12,7 +12,7 @@ Ex:
 ![Screenshot 2021-08-23 at 00 10 37](https://user-images.githubusercontent.com/23433005/130372966-3e2434d4-bacb-4d92-9820-7342aecac7d2.png)
 
 
-object url – https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/IMG_0700.png
+S3 Object URL: https://f2s3-media-data.s3.eu-west-2.amazonaws.com/uploads/IMG_0700.png
 
 
 
